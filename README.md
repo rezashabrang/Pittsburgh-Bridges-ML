@@ -1,4 +1,4 @@
-# -Pittsburgh-Bridges-ML
+# Pittsburgh-Bridges-ML
 Applying tree classifier to Pittsburgh Bridges dataset <br/>
 Using onehotencoder to encode categorical features of the database and Apply decision tree classifer to the database. <br/>
 I used two methods for handling missing values. <br/>
